@@ -1,0 +1,2129 @@
+/* Desktop - 4 */
+
+body
+{
+position: relative;
+width: /* */    1600px ;
+height: 2554px;
+
+background: #FFFFFF;
+}
+
+
+.Your-Cart
+{
+position: absolute;
+width: 193px;
+height: 80px;
+left: 14.4375%;
+/* left: 231px ; */
+top: 188px;
+
+/* font-family: Poppins;
+ */font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 80px;
+/* identical to box height, or 200% */
+
+color: #000000;
+}
+
+/* .Group-95
+{
+position: absolute;
+width: 1140px  71.25%;
+height: 629px;
+left: 230px 14.375%;
+top: 318px;
+background: blue;
+}
+ */
+.Rectangle-291
+{
+position: /* absolute */ relative;
+width: /* 1140px */ 71.25%;
+/* height: 204px; */
+
+left: /* 230px */ 14.375%;
+top: 318px;
+background: /* #FFFFFF */ green;
+border-radius: 8px;
+display: flex;
+list-style: none;
+margin-bottom: 30px;
+padding: 0px;
+}
+
+/* .b-example-divider
+{
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);	
+}
+ *//* .Rectangle-293
+{
+position: absolute ;
+width: 1140px 71.25%;
+height: 204px;
+left:  230px  14.375%;
+top:  552px 318px;
+background: #FFFFFF;
+border-radius: 8px;
+} */
+.Rectangle-291 .col{
+
+    padding: 0px;
+    margin: 0px;
+	height: 204px;
+}
+.Rectangle-292
+{
+    position: /* absolute */ relative;
+    width: 195px;
+    height: 204px;
+    top: 0px;
+    left: /* 230px */ 0px;
+    /* background: url(luis-felipe-lins-J2-wAQDckus-unsplash.jpg); */
+    border-radius: 8px;
+	}
+.Boys-Stylish-Snakers
+{
+    position: /*  relative*/ absolute;
+width: /*  59.1813% */ 253px;
+height: 28px ; 
+/* left: 555px 325px 130px 15.0265% 33.94% ;
+ */
+ right: 0px;
+ top: /* 389px */71px;
+
+/* font-family: 'Poppins' , sans-serif ;
+ *//* font-style: normal; */
+ font-weight: 00;
+font-size: 18px;
+line-height: 150.84%;
+/* identical to box height, or 27px */
+display: flex ;
+align-items: center;
+
+/* #181813 */
+color: #181813;
+}
+
+.SKU
+{
+    position: absolute;
+    width: 147px;
+    height: 27px;
+    /* left: 555px; */
+    right: 106px;
+    top: /* 425px */ 107px;
+    /* font-family: Poppins; */
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 145.23%;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.05em;
+}
+
+.Group-87
+{
+position: absolute;
+width: 96px;
+height: 48px;
+/* left: 983px  175px 55.5556%;
+ */
+/*  right: 3px ;
+ */
+ top: /* 396px */78px;
+
+ border: 1px solid #949494;
+border-radius: 5px;
+color: #333329;
+/* background: blue;
+ */}
+.t01
+{
+position: absolute;
+width: 49px;
+height: 26px;
+left: /* 1007px */24px;
+top: /* 407px  11px*/  18px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+display: flex;
+align-items: center;
+
+color: #333329;
+
+}
+
+.Group-93
+{
+position: absolute;
+width: 128px;
+height: 116px;
+/* left: 1222px;
+ */top: /* 602px */ 50px;
+}
+
+.Group-93 .t250
+{
+position: absolute;
+width: 121px;
+height: 51px;
+left: /* 1222px */ 0;
+top: /* 368px */ 0;
+
+/* font-family: Poppins;
+ */font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 158.26%;
+/* identical to box height, or 51px */
+display: flex;
+align-items: center;
+text-align: right;
+
+/* #181813 */
+color: #181813;
+}
+
+.Save-For-Later
+{
+position: absolute;
+width: 128px;
+height: 28px;
+left: /* 1222px */ 0;
+top: /* 419px */ 51px;
+
+/* font-family: Poppins;
+ */
+ font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150.84%;
+/* identical to box height, or 27px */
+display: flex;
+align-items: center;
+
+color: #FF8A69;
+}
+
+.Remove
+{
+position: absolute;
+width: 79px;
+height: 27px;
+left: /* 1222px */ o;
+top: /* 457px */ 89px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 145.23%;
+/* identical to box height, or 26px */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+/* #181813 */
+color: #181813;
+
+opacity: 0.5;
+}
+
+.Group-94
+{
+position: absolute;
+width: 291px;
+/* height: 63px;
+ */
+/* left: 1079px;
+ */
+ top: /* 796px */ 10px;
+ right:0;
+}
+
+.Group-94 .Total
+{
+position: absolute;
+width: 54px;
+height: 35px;
+left: /* 1079px */ 0;
+top: /* 804px */ 8px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 158.26%;
+/* identical to box height, or 35px */
+display: flex;
+align-items: center;
+text-align: right;
+
+/* #181813 */
+color: #181813;
+
+}
+
+.Group-94 .t250
+{
+position: absolute;
+width: 121px;
+height: 51px;
+/* left: 1249px;
+ */
+ right:0;
+ top: /* 796px */ 0;
+
+/* font-family: Poppins;
+ */
+ font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 158.26%;
+/* identical to box height, or 51px */
+display: flex;
+align-items: center;
+text-align: right;
+
+/* #181813 */
+color: #181813;
+}
+
+.Group-94 .Items
+{
+
+position: absolute;
+width: 72px;
+height: 27px;
+left: /* 1079px */ 0;
+top: /* 832px */ 36px;
+
+/* font-family: Poppins;
+ */
+ font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 145.23%;
+/* identical to box height, or 26px */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+/* #181813 */
+color: #181813;
+
+opacity: 0.5;
+
+}
+
+.Rectangle-291 .Button
+{
+
+position: absolute;
+width: 291px;
+height: 48px;
+/* left: 1079px;
+ */
+ right:0;
+ top: /* 899px */ 93px;
+}
+
+.Rectangle-291 .Button .btn
+{
+position: absolute;
+width: 291px;
+height: 48px;
+/* left: 1079px;
+top: 899px;
+ */
+background: #FF8A69;
+border-radius: 10px;
+
+}
+.Rectangle-291 .Checkout
+{
+
+position: absolute;
+width: 101px;
+height: 27px;
+left: /* 1174px */95px;
+top: /* 910px */11px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 145.23%;
+/* identical to box height, or 26px */
+display: flex;
+align-items: center;
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+
+}
+/*  Rectangle 294
+
+position: absolute;
+width: 195px;
+height: 204px;
+left: 230px;
+top: 552px;
+
+background: url(imani-bahati-LxVxPA1LOVM-unsplash.jpg);
+border-radius: 8px;
+ */
+
+.slider
+{
+        position: relative;
+    width: 100%;
+    list-style: none;
+    top: /* 1190px 541px */ 649px;
+    background: green;
+    /* margin-right: 8px; */
+    /* left: 0%; */
+    /* right: 0; */
+    display: flex;
+}
+
+li{display:inline-block;}
+
+.item-1
+{
+    position: relative /* absolute */;
+    width: 320px;
+    height: 450px;
+	margin: 5px;
+  /*   left: 20px; */
+    top: 0px;
+	/* margin-left: 25px; */
+
+  /*   overflow: hidden; */
+}
+
+.ok {height: 450px;}
+
+.item-1 .Rectangle
+{
+position: relative /* absolute */;
+width: 320px;
+height: 450px;
+
+left: 0px;
+right:0px;
+/* top: 0px; */
+/* background: url(luis-felipe-lins-J2-wAQDckus-unsplash.jpg); */
+border-radius: 10px;
+}
+
+.overlay-container
+{
+position: relative /* absolute */;
+width: /* 320px */ 200px;
+height: 450px; /* 70px */
+left: /* 228px */ 60px;
+top: -450px; /* -70px */
+/* 
+background: blue; */
+transition: all .5s ease 0s;
+z-index: 9;
+}
+
+.overlay
+{
+position: relative /* absolute */;
+width: 320px;
+height: 70px;
+left:/*  228px */ -60px;
+top: /* 0px */ /* 1570px */ 380px;
+
+background: #FFFFFF;
+opacity: 0;
+border-radius: 0px 0px 10px 10px;
+}
+.overlay-container a
+{
+    position: absolute;
+    width: 339px;
+    height: 70px;
+    left: -70px;
+    /* left: 347px; */
+    top: 380px /* 1586px*/;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 158.26%;
+    display: flex;
+    align-items: center;
+    color: #181414;
+    opacity: 0;
+    padding: 10px;
+    z-index: 9;
+    justify-content: center;
+}
+
+
+
+.Ellipse
+{
+position: absolute;
+width: 42px;
+height: 42px;
+left: /* 474px */ 186px;
+top: /* 1584px */ 394px;
+border-radius: 21px;
+background: #FF8A69;
+opacity: 0;
+}
+
+.Vector
+{
+position: absolute;
+width: 16px;
+height: 16px;
+left: /* 487px */ 13px;
+top: /* 1597px */ 13px;
+
+/* white */
+background: #FF8A69 /* #FFFFFF */;
+
+}
+.overlay-container:hover> .overlay{opacity: 0.5;}
+.overlay-container:hover> a{opacity: 1;}
+.overlay-container:hover> .Ellipse{opacity: 1;}
+
+/* .slick-list {z-index: 9;} */
+.slick-dots
+{
+        position: absolute;
+    /* width: 102px; */
+    /* height: 13px; */
+    left: /* 740px */ 142px;
+    top: /* 1612px */ 430px;
+    /* background: green; */
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    /* z-index: 9; */
+}
+
+.slick-active{height: 12px;}
+
+.slick-dots button
+{
+position: relative;
+width: 12px;
+height: 12px;
+/* left:  764px; */
+/* top:1612px; */
+border-radius: 10px;
+border: 1px solid #FF8A69;
+box-sizing: border-box;
+    top: -14px;
+    margin: 1px;
+    border-radius: 10px;
+    font-size: 0px;
+}
+
+.slick-dots .slick-active button
+{
+    width: 12px;
+    height: 12px;
+    /* left: 740px; */
+    top: -14px;
+    margin: 1px;
+    border-radius: 10px;
+    background: #FF8A69;
+    font-size: 0px;
+}
+
+.Related-Product
+{
+position: relative;
+width: 100% /* 389px */;
+height: 73px;
+/* left: 606px; */
+top: /* 1067px 468px */ 599px;
+
+/* font-family: Poppins;
+ */font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 150.84%;
+/* identical to box height, or 72px */
+display: flex;
+align-items: center;
+
+/* #181813 */
+color: #181813;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* Group 84 */
+
+position: absolute;
+width: 101px;
+height: 27px;
+left: 1174px;
+top: 910px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* container */
+
+position: absolute;
+width: 96px;
+height: 48px;
+left: 983px;
+top: 396px;
+
+border: 1px solid #949494;
+box-sizing: border-box;
+border-radius: 5px;
+
+
+
+
+
+/* Group 91 */
+
+position: absolute;
+width: 96px;
+height: 48px;
+left: 983px;
+top: 630px;
+
+
+
+/* container */
+
+position: absolute;
+width: 96px;
+height: 48px;
+left: 983px;
+top: 630px;
+
+border: 1px solid #949494;
+box-sizing: border-box;
+border-radius: 5px;
+
+
+/* - 01 + */
+
+position: absolute;
+width: 49px;
+height: 26px;
+left: 1007px;
+top: 641px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+display: flex;
+align-items: center;
+
+color: #333329;
+
+
+
+/* Group 88 */
+
+position: absolute;
+width: 253px;
+height: 63px;
+left: 555px;
+top: 389px;
+
+
+
+
+
+
+/* #181813 */
+color: #181813;
+
+
+
+/* Group 92 */
+
+position: absolute;
+width: 253px;
+height: 63px;
+left: 555px;
+top: 623px;
+
+
+
+/* Boys Stylish Snakers (Black) */
+
+position: absolute;
+width: 253px;
+height: 28px;
+left: 555px;
+top: 623px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150.84%;
+/* identical to box height, or 27px */
+display: flex;
+align-items: center;
+
+/* #181813 */
+color: #181813;
+
+
+
+/* SKU : 5kuJH88P */
+
+position: absolute;
+width: 147px;
+height: 27px;
+left: 555px;
+top: 659px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 145.23%;
+/* identical to box height, or 26px */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+/* #181813 */
+color: #181813;
+
+
+
+/* Group 90 */
+
+position: absolute;
+width: 128px;
+height: 116px;
+left: 1222px;
+top: 368px;
+
+
+
+
+
+/* Group 89 */
+
+position: absolute;
+width: 128px;
+height: 28px;
+left: 1222px;
+top: 419px;
+
+
+
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 121.5px;
+height: 0px;
+left: 1224.5px;
+top: 440.5px;
+
+border: 2px solid #FF8A69;
+
+
+
+
+
+
+
+/* Remove */
+
+position: absolute;
+width: 79px;
+height: 27px;
+left: 1222px;
+top: 691px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 145.23%;
+/* identical to box height, or 26px */
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+
+/* #181813 */
+color: #181813;
+
+opacity: 0.5;
+
+
+/* Group 89 */
+
+position: absolute;
+width: 128px;
+height: 28px;
+left: 1222px;
+top: 653px;
+
+
+
+/* Save For Later */
+
+position: absolute;
+width: 128px;
+height: 28px;
+left: 1222px;
+top: 653px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150.84%;
+/* identical to box height, or 27px */
+display: flex;
+align-items: center;
+
+color: #FF8A69;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 121.5px;
+height: 0px;
+left: 1224.5px;
+top: 674.5px;
+
+border: 2px solid #FF8A69;
+
+
+/* $250.00 */
+
+position: absolute;
+width: 121px;
+height: 51px;
+left: 1222px;
+top: 602px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 158.26%;
+/* identical to box height, or 51px */
+display: flex;
+align-items: center;
+text-align: right;
+
+/* #181813 */
+color: #181813;
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* item 4 */
+
+position: absolute;
+width: 320px;
+height: 444px;
+left: 1338px;
+top: 1190px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 320px;
+height: 444px;
+left: 1338px;
+top: 1190px;
+
+background: url(imani-bahati-LxVxPA1LOVM-unsplash.jpg);
+border-radius: 10px;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 60px;
+height: 12px;
+left: 1467px;
+top: 1612px;
+
+
+
+/* Ellipse 2.4 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1467px;
+top: 1612px;
+
+border: 1px solid #FF8A69;
+box-sizing: border-box;
+
+
+/* Ellipse 2.5 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1491px;
+top: 1612px;
+
+background: #FF8A69;
+
+
+/* Ellipse 2.6 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1515px;
+top: 1612px;
+
+border: 1px solid #FF8A69;
+box-sizing: border-box;
+
+
+/* item 3 */
+
+position: absolute;
+width: 320px;
+height: 444px;
+left: 968px;
+top: 1190px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 320px;
+height: 444px;
+left: 968px;
+top: 1190px;
+
+background: url(pauline-figuet-DYEoijk5rBU-unsplash.jpg);
+border-radius: 10px;
+
+
+/* Group 4 */
+
+position: absolute;
+width: 60px;
+height: 12px;
+left: 1098px;
+top: 1606px;
+
+
+
+/* Ellipse 2.7 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1098px;
+top: 1606px;
+
+background: #FF8A69;
+
+
+/* Ellipse 2.8 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1122px;
+top: 1606px;
+
+border: 2px solid #FF8A69;
+box-sizing: border-box;
+
+
+/* Ellipse 2.9 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 1146px;
+top: 1606px;
+
+border: 2px solid #FF8A69;
+box-sizing: border-box;
+
+
+/* item 2 */
+
+position: absolute;
+width: 320px;
+height: 450px;
+left: 598px;
+top: 1190px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 320px;
+height: 450px;
+left: 598px;
+top: 1190px;
+
+background: url(pauline-figuet-F3_4uCJ6y-w-unsplash.jpg);
+border-radius: 10px;
+
+
+
+
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 474px;
+top: 1584px;
+
+
+
+
+
+
+
+
+
+
+/* Group 83 */
+
+position: absolute;
+width: 1600px;
+height: 794px;
+left: 0px;
+top: 1760px;
+
+}
+
+/* Group 43 */
+
+position: absolute;
+width: 633px;
+height: 250px;
+left: 484px;
+top: 1760px;
+
+
+
+/* Efficiently foster process-centric infomediaries whereas best-of-breed content. */
+
+position: absolute;
+width: 633px;
+height: 56px;
+left: 484px;
+top: 1852px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+text-align: center;
+
+color: #000000;
+
+opacity: 0.7;
+
+
+/* Group 42 */
+
+position: absolute;
+width: 522px;
+height: 52px;
+left: 540px;
+top: 1958px;
+
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 362px;
+height: 52px;
+left: 540px;
+top: 1958px;
+
+background: #FFFFFF;
+border: 1.25px solid #FF8A69;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Group 41 */
+
+position: absolute;
+width: 150px;
+height: 48px;
+left: 912px;
+top: 1960px;
+
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 150px;
+height: 48px;
+left: 912px;
+top: 1960px;
+
+background: #FF8A69;
+border-radius: 8px;
+
+
+/* Sign Up */
+
+position: absolute;
+width: 68px;
+height: 28px;
+left: 953px;
+top: 1970px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #FFFFFF;
+
+
+
+/* Enter your email */
+
+position: absolute;
+width: 145px;
+height: 28px;
+left: 571px;
+top: 1970px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #000000;
+
+opacity: 0.3;
+
+
+/* Sign up now & get 30% off */
+
+position: absolute;
+width: 509px;
+height: 60px;
+left: 546px;
+top: 1760px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 1600px;
+height: 424px;
+left: 0px;
+top: 2130px;
+
+background: #CFECF9;
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+width: 293px;
+height: 115px;
+left: 230px;
+top: 2254px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* Terms & Conditions */
+
+position: absolute;
+width: 141px;
+height: 23px;
+left: 1068px;
+top: 2474px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* Copyright © 2020. Lo */
+
+position: absolute;
+width: 350px;
+height: 23px;
+left: 230px;
+top: 2474px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+
+
+/* Privacy Policy */
+
+position: absolute;
+width: 99px;
+height: 23px;
+left: 1241px;
+top: 2474px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* Services */
+
+position: absolute;
+width: 69px;
+height: 26px;
+left: 655px;
+top: 2189px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 25px;
+/* identical to box height */
+letter-spacing: -0.231818px;
+
+color: #1E2833;
+
+
+
+/* Email Marketing */
+
+position: absolute;
+width: 116px;
+height: 23px;
+left: 655px;
+top: 2232px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* Campaigns */
+
+position: absolute;
+width: 87px;
+height: 23px;
+left: 655px;
+top: 2272px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* Branding */
+
+position: absolute;
+width: 67px;
+height: 23px;
+left: 655px;
+top: 2312px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* Offline */
+
+position: absolute;
+width: 48px;
+height: 23px;
+left: 655px;
+top: 2352px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* About */
+
+position: absolute;
+width: 48px;
+height: 22px;
+left: 933px;
+top: 2193px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 22px;
+letter-spacing: -0.231818px;
+
+color: #1E2833;
+
+
+
+/* Our Story */
+
+position: absolute;
+width: 66px;
+height: 20px;
+left: 933px;
+top: 2232px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* Benefits */
+
+position: absolute;
+width: 56px;
+height: 20px;
+left: 933px;
+top: 2269px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* Team */
+
+position: absolute;
+width: 37px;
+height: 20px;
+left: 933px;
+top: 2306px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* Careers */
+
+position: absolute;
+width: 53px;
+height: 20px;
+left: 933px;
+top: 2343px;
+
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* Follow Us */
+
+position: absolute;
+width: 76px;
+height: 26px;
+left: 1169px;
+top: 2189px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 25px;
+/* identical to box height */
+letter-spacing: -0.231818px;
+
+color: #1E2833;
+
+
+
+/* Group 36 */
+
+position: absolute;
+width: 107px;
+height: 103px;
+left: 1170px;
+top: 2232px;
+
+
+
+/* 001-facebook */
+
+position: absolute;
+width: 9.92px;
+height: 19.84px;
+left: 1175px;
+top: 2234px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 9.92px;
+height: 19.84px;
+left: 1175px;
+top: 2234px;
+
+background: #1E2833;
+
+
+/* 003-twitter */
+
+position: absolute;
+width: 19.56px;
+height: 15.89px;
+left: 1170px;
+top: 2276px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 19.56px;
+height: 15.89px;
+left: 1170px;
+top: 2276px;
+
+background: #1E2833;
+
+
+/* Group 35 */
+
+position: absolute;
+width: 77px;
+height: 103px;
+left: 1200px;
+top: 2232px;
+
+
+
+/* Facebook */
+
+position: absolute;
+width: 72px;
+height: 23px;
+left: 1200px;
+top: 2232px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* Twitter */
+
+position: absolute;
+width: 50px;
+height: 23px;
+left: 1200px;
+top: 2272px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* Instagram */
+
+position: absolute;
+width: 77px;
+height: 23px;
+left: 1200px;
+top: 2312px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: -0.204545px;
+
+color: #1E2833;
+
+
+
+/* 004-instagram */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1170px;
+top: 2314px;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 73.12%;
+right: 25.62%;
+top: 90.6%;
+bottom: 8.61%;
+
+background: #1E2833;
+
+
+/* Path */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1170px;
+top: 2314px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 16.25px;
+height: 16.25px;
+left: 1171.88px;
+top: 2315.88px;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 73.44%;
+right: 25.94%;
+top: 90.8%;
+bottom: 8.81%;
+
+background: #1E2833;
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 1175px;
+top: 2319px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 6.25px;
+height: 6.25px;
+left: 1176.88px;
+top: 2320.88px;
+
+
+
+/* Oval */
+
+position: absolute;
+width: 1.33px;
+height: 1.33px;
+left: 1184.71px;
+top: 2317.96px;
+
+background: #1E2833;
+
+
+/* Group 47 */
+
+position: absolute;
+width: 118px;
+height: 32px;
+left: 230px;
+top: 2192px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 35.96px;
+height: 27.71px;
+left: 230px;
+top: 2192px;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 14.38%;
+right: 83.38%;
+top: 85.83%;
+bottom: 13.09%;
+
+background: #FF8A69;
+
+
+/* Path */
+
+position: absolute;
+width: 34.88px;
+height: 14.44px;
+left: 230.54px;
+top: 2192px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 35.96px;
+height: 6.03px;
+left: 230px;
+top: 2206.94px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 35.96px;
+height: 6.03px;
+left: 230px;
+top: 2213.68px;
+
+
+
+/* BestBuy */
+
+position: absolute;
+width: 74px;
+height: 27.2px;
+left: 274px;
+top: 2196.8px;
+
+font-family: Pecita;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 28px;
+/* identical to box height, or 127% */
+
+color: #FF8A69;
+
+
+
+/* Group 100 */
+
+position: absolute;
+width: 1143px;
+height: 33.01px;
+left: 230px;
+top: 34.99px;
+
+
+
+/* Group 44 */
+
+position: absolute;
+width: 118px;
+height: 32.01px;
+left: 741px;
+top: 34.99px;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 35.96px;
+height: 29.25px;
+left: 741px;
+top: 34.99px;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 46.31%;
+right: 51.44%;
+top: 1.37%;
+bottom: 97.48%;
+
+background: #FF8A69;
+
+
+/* Path */
+
+position: absolute;
+left: 46.35%;
+right: 51.47%;
+top: 1.37%;
+bottom: 98.03%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 46.31%;
+right: 51.44%;
+top: 1.99%;
+bottom: 97.76%;
+
+
+
+/* Path */
+
+position: absolute;
+left: 46.31%;
+right: 51.44%;
+top: 2.27%;
+bottom: 97.48%;
+
+
+
+/* BestBuy */
+
+position: absolute;
+width: 74px;
+height: 27.99px;
+left: 785px;
+top: 39.01px;
+
+font-family: Pecita;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 28px;
+/* identical to box height, or 127% */
+
+color: #FF8A69;
+
+
+
+/* Group 46 */
+
+position: absolute;
+width: 1138.58px;
+height: 32.99px;
+left: 230px;
+top: 35.01px;
+
+
+
+/* Group 45 */
+
+position: absolute;
+width: 760px;
+height: 27.99px;
+left: 536px;
+top: 38.01px;
+
+
+
+/* Home */
+
+position: absolute;
+width: 55px;
+height: 27.99px;
+left: 536px;
+top: 38.01px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #000000;
+
+
+
+/* Product */
+
+position: absolute;
+width: 71px;
+height: 27.99px;
+left: 630px;
+top: 38.01px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #000000;
+
+
+
+/* Testimonial */
+
+position: absolute;
+width: 104px;
+height: 27.99px;
+left: 899px;
+top: 38.01px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #000000;
+
+
+
+/* Blog */
+
+position: absolute;
+width: 39px;
+height: 27.99px;
+left: 1043px;
+top: 38.01px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #000000;
+
+
+
+/* Sign in */
+
+position: absolute;
+width: 59px;
+height: 27.99px;
+left: 1237px;
+top: 38.01px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #000000;
+
+
+
+/* Group */
+
+position: absolute;
+left: 14.38%;
+right: 83.62%;
+top: 1.48%;
+bottom: 97.69%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.38%;
+right: 83.62%;
+top: 1.48%;
+bottom: 97.69%;
+
+background: #1F1111;
+
+
+/* Vector */
+
+position: absolute;
+left: 84.21%;
+right: 15.61%;
+top: 2.48%;
+bottom: 97.41%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 85.18%;
+right: 14.64%;
+top: 2.48%;
+bottom: 97.41%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.59%;
+right: 14.46%;
+top: 1.43%;
+bottom: 97.74%;
+
+border: 2px solid #000000;
+
+
+/* search */
+
+position: absolute;
+width: 33px;
+height: 32.99px;
+left: 302px;
+top: 35.01px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 20.83%;
+top: 12.5%;
+bottom: 20.83%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.38%;
+right: 12.5%;
+top: 69.37%;
+bottom: 12.5%;
+
+border: 2px solid #000000;
+
+
+/* Group 99 */
+
+position: absolute;
+left: 84.94%;
+right: 14.19%;
+top: 1.41%;
+bottom: 98.04%;
+
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 84.94%;
+right: 14.19%;
+top: 1.41%;
+bottom: 98.04%;
+
+background: #FF8A69;
+
+
+/* 2 */
+
+position: absolute;
+left: 85.25%;
+right: 14.44%;
+top: 1.45%;
+bottom: 98.08%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 8px;
+line-height: 12px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.25em;
+
+color: #FFFFFF;
+
